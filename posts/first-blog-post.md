@@ -6,7 +6,7 @@ snippet: This is an excerpt of my first blog post.
 
 Hell
 
-![description of image] reg(w01/01.jpg)
+![description of image](/w01sl/01.jpg)
 
 # This is h1
 
