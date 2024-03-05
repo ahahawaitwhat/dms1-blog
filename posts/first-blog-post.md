@@ -4,14 +4,11 @@ published_at: 2024-03-05
 snippet: This is an excerpt of my first blog post.
 ---
 
-Hell
+# Hello World!
 
-![description of image](/w01/01.jpg)
+## Hello World!
 
-# This is h1
+**_Hello World!_**
 
-## This is h2
+![photographic evidence that paul is dead](/w01/01.jpg)
 
-_underline_
-
-**bold**
