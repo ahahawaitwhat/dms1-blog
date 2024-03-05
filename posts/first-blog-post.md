@@ -8,7 +8,7 @@ snippet: This is an excerpt of my first blog post.
 
 ## Hello World!
 
-**_Hello World!_**
+_**Hello World!**_
 
 ![photographic evidence that paul is dead](/w01/01.jpg)
 
