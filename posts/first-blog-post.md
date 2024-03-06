@@ -10,7 +10,7 @@ disable_html_sanitization: true
 **❌ An explosive cup of coffee.**
 
 <details style="padding-left:5px;">
-<summary><b>A book containing Digital Media wisdom, found amongst many.</b></summary>
+<summary style="padding-left:5px;"><b>A book containing Digital Media wisdom, found amongst many.</b></summary>
 <br>
 We wandered around until we found the library. We then searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.
 <br><br>
@@ -20,7 +20,7 @@ We wandered around until we found the library. We then searched for the category
 <br>
 </details>
 
-<details>
+<details style="padding-left:5px;">
 <summary><b>A wide net strung above, bulging under the weight of its flying paper cargo.</b></summary>
 
 <br>
@@ -36,7 +36,7 @@ While trying to find the exit to the library, we found a small balcony where we 
 
 **❌ A door for the condemned.**
 
-<details>
+<details style="padding-left:5px;">
 <summary><b>A study space fit for a Sith Lord.</b></summary>
 
 <br>
@@ -48,7 +48,7 @@ As digital media students, we thought it was only fair we used every tool at our
 <br>
 </details>
 
-<details>
+<details style="padding-left:5px;">
 <summary><b>The disembodied hands of a great ape.</b></summary>
 
 <br>
@@ -60,7 +60,7 @@ Unfortunately, we did not get the opportunity to take a selfie with the hand as 
 <br>
 </details>
 
-<details>
+<details style="padding-left:5px;">
 <summary><b>A basement-dwelling Black Box, bigger than you might think.</b></summary>
 
 <br>
@@ -72,7 +72,7 @@ I think this was near the library and we found it by pure chance. It didn't quit
 <br>
 </details>
 
-<details>
+<details style="padding-left:5px;">
 <summary><b> A wide machine, dispensing beverages from a far away land.</b></summary>
 
 <br>
