@@ -11,7 +11,6 @@ snippet: This is an excerpt of my first blog post.
 <details>
 <summary><b>A book containing Digital Media wisdom, found amongst many.</b></summary>
 
-<br>
 We wandered around until we found the library. We then searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.
 <br>
 
@@ -22,7 +21,7 @@ We wandered around until we found the library. We then searched for the category
 <details>
 <summary><b>A wide net strung above, bulging under the weight of its flying paper cargo.</b></summary>
 
-<br>
+
 While trying to find the exit to the library, we found a small balcony, where we could see the net. We took a photo on the balcony, but upon passing it later, we decided to take a closer photo.
 <br>
 
