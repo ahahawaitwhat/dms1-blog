@@ -8,8 +8,8 @@ snippet: This is an excerpt of my first blog post.
 
 ## 🔲 An explosive cup of coffee.
 ## ☑️ A book containing Digital Media wisdom, found amongst many.
-<div style="display: flex; align-items: center; justify-content: center">
-<div style="padding-left: 20px;">We wandered around until we found the library. We then searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+<div style="padding-left: 20px; max-width:200px;">We wandered around until we found the library. We then searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.</div>
 
 <img src="/w01/book.jpg" alt="book" width="200px"/>
 </div>
