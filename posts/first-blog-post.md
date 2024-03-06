@@ -6,8 +6,8 @@ snippet: This is an excerpt of my first blog post.
 
 # Scavenger Hunt
 
-## :x: An explosive cup of coffee.
-## :o: A book containing Digital Media wisdom, found amongst many.
+## 🔲 An explosive cup of coffee.
+## ☑️ A book containing Digital Media wisdom, found amongst many.
 We wandered around until we found the library. We then searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.
 
 <img src="/w01/book.jpg" alt="book" width="200"/>
