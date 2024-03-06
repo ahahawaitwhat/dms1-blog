@@ -6,7 +6,7 @@ snippet: This is an excerpt of my first blog post.
 
 ## Scavenger Hunt
 
-**🔲 An explosive cup of coffee.**
+**❌ An explosive cup of coffee.**
 
 **☑️ A book containing Digital Media wisdom, found amongst many.**
 
@@ -20,30 +20,42 @@ While trying to find the exit to the library, we found a small balcony, where we
 
 ![net](/w01/net.jpg)
 
-**🔲 A curtain of roots, delivered by a winged visitor.**
+**❌ A curtain of roots, delivered by a winged visitor.**
 
-**🔲 A door for the condemned.**
+**❌ A door for the condemned.**
 
-**☑️ A study space fit for a Sith Lord.**
-
+<details>
+<summary><b>A study space fit for a Sith Lord.</b></summary>
+<br>
 As digital media students, we thought it was only fair we used every tool at our disposal, whether physical or digital. So we pulled up lost on campus. We located this area using the key words, "star wars". 
+<br>
 
 ![study space](/w01/sith.jpg)
 
-**☑️ The disembodied hands of a great ape.**
+</details>
 
+<details>
+<summary><b>The disembodied hands of a great ape.</b></summary>
+<br>
 Unfortunately we did not get the opportunity to take a selfie with the hand as we found this while returning to the classroom, but I managed to snap a quick photo. Apologies for the incredibly unclear photo - it's there if you squint. Hopefully this is the hand we were supposed to find and not just a coincidence that someone left a mannequin arm on the floor. We tried our best. 
+<br>
 
 ![hand](/w01/hand.jpg)
 
-**☑️ A basement-dwelling Black Box, bigger than you might think.**
+</details>
 
+<details>
+<summary<b> A basement-dwelling Black Box, bigger than you might think.</b></summary>
+<br>
 I think this was near the library - we found it by pure chance. It didn't quite fit the "basement-dwelling" descriptor but we thought it was close enough. 
+<br>
 
 ![box](/w01/box.jpg)
 
+</details>
+
 <details>
-<summary><b>☑️ A wide machine, dispensing beverages from a far away land.** </b></summary>
+<summary><b> A wide machine, dispensing beverages from a far away land.</b></summary>
 <br>
 This was our first find after wandering around in buildings 8-10 for a little. It looked slightly wider than most Australian vending machines, and the drinks were mostly Japanese, which we thought was a pretty far away land.
 <br>
@@ -52,4 +64,6 @@ This was our first find after wandering around in buildings 8-10 for a little. I
 
 </details>
 
-**🔲 A golden globe atop a tower of eights.**
+**❌ A golden globe atop a tower of eights.**
+
+<br><br>
