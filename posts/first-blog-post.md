@@ -26,6 +26,8 @@ While trying to find the exit to the library, we found a small balcony, where we
 
 ![net](/w01/net.jpg)
 
+</details>
+
 **❌ A curtain of roots, delivered by a winged visitor.**
 
 **❌ A door for the condemned.**
