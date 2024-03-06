@@ -11,9 +11,9 @@ snippet: This is an excerpt of my first blog post.
 **☑️ A book containing Digital Media wisdom, found amongst many.**
 
 <div style="text-align: center;">We wandered around until we found the library. We then searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.</div>
-
+<br>
 <img src="/w01/book.jpg" alt="book" width="200px"/>
-
+<br>
 **☑️ A wide net strung above, bulging under the weight of its flying paper cargo.**
 
 While trying to find the exit to the library, we found a small balcony, where we could see the net. We took a photo on the balcony, but upon passing it later, we decided to take a closer photo.
@@ -50,4 +50,8 @@ This was our first find after wandering around in buildings 8-10 for a little. I
 
 **🔲 A golden globe atop a tower of eights.**
 
-
+<details open>
+<summary>dropdown hopefully</summary>
+<br>
+contents
+</details>
