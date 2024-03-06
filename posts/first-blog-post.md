@@ -12,7 +12,7 @@ snippet: This is an excerpt of my first blog post.
 <summary><b>A book containing Digital Media wisdom, found amongst many.</b></summary>
 <br>
 We wandered around until we found the library. We then searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.
-<br>
+<br><br>
 
 ![book](/w01/book.jpg)
 
@@ -58,7 +58,7 @@ Unfortunately we did not get the opportunity to take a selfie with the hand as w
 <summary><b>A basement-dwelling Black Box, bigger than you might think.</b></summary>
 
 I think this was near the library - we found it by pure chance. It didn't quite fit the "basement-dwelling" descriptor but we thought it was close enough. 
-<br>
+
 
 ![box](/w01/box.jpg)
 
