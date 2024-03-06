@@ -42,7 +42,7 @@ I think this was near the library - we found it by pure chance. It didn't quite 
 
 ![box](/w01/box.jpg)
 
-<details open>
+<details>
 <summary><b>☑️ A wide machine, dispensing beverages from a far away land.** </b></summary>
 <br>
 This was our first find after wandering around in buildings 8-10 for a little. It looked slightly wider than most Australian vending machines, and the drinks were mostly Japanese, which we thought was a pretty far away land.
@@ -50,15 +50,6 @@ This was our first find after wandering around in buildings 8-10 for a little. I
 
 ![vending machine](/w01/drink.jpg)
 
-**🔲 A golden globe atop a tower of eights.**
-
-
-<details open>
-<summary>image embedded with markdown</summary>
-<br>
-i wanted my images smaller so i used html - hope that's ok! here's an image embedded with markdown if you need though:
-<br>
-
-![photographic evidence that paul is dead](/w01/01.jpg)
-
 </details>
+
+**🔲 A golden globe atop a tower of eights.**
