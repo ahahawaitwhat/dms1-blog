@@ -12,7 +12,7 @@ disable_html_sanitization: true
 <details style="padding-left:5px;">
 <summary><b>A book containing Digital Media wisdom, found amongst many.</b></summary>
 <br>
-We wandered around until we found the library. We then searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.
+We wandered around until we found the library and searched for the category that most likely had books on design. (I forgot what the category was called but I remember its corresponding number was 700.) We then wandered the library until we found the section we were looking for. It was difficult trying to pinpoint a book specifically on digital media but this was the one we thought most closely matched the description.
 <br><br>
 
 ![book](/w01/book.jpg)
@@ -24,7 +24,7 @@ We wandered around until we found the library. We then searched for the category
 <summary><b>A wide net strung above, bulging under the weight of its flying paper cargo.</b></summary>
 
 <br>
-While trying to find the exit to the library, we found a small balcony where we could see the net. We took a photo on the balcony, but upon passing it later, we decided to take a closer photo.
+While trying to find the exit to the library, we found a small balcony where we could see the net. We took a photo on the balcony, but seeing as we were going to walk past it anyway, we decided to take a closer photo.
 <br><br>
 
 ![net](/w01/net.jpg)
