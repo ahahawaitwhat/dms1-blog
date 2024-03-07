@@ -87,3 +87,9 @@ This was our first find after wandering around in buildings 8-10 for a little. I
 **❌ A golden globe atop a tower of eights.**
 
 <br><br>
+
+## 30 Second Video
+
+![vid](/w01/w01s1_30sec_v2.mp4)
+
+<br><br>
