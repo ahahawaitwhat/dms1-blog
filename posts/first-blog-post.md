@@ -90,6 +90,6 @@ This was our first find after wandering around in buildings 8-10 for a little. I
 
 ## 30 Second Video
 
-<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=VtWtQqAxawM" ></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VtWtQqAxawM?si=U_nCPqC98jFemo6e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br>
