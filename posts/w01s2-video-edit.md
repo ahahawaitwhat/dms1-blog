@@ -8,6 +8,7 @@ disable_html_sanitization: true
 ## Edited video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qhYYB_-Jxdk?si=DEerehOkeqBLb1Cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 
 Coincidentally, both Yuna and I misinterpreted the instructions for our w01s1 homework task, and we submitted fully edited 30 second videos rather than raw footage. Fortunately, we had both recorded 1-2 videos that were 30 seconds or longer, so we exchanged those. My video was a clip of me repeatedly switching my camera focus between the barricade and the stage of a concert I went to, and Yuna's was a still shot of her filling a bowl with spaghetti. It wasn't a lot to work with so we filmed proper 30 second videos of physical spaces, but I changed my mind and went back to the clips we had initially since they felt more authentic.
 
