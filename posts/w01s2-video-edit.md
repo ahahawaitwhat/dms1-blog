@@ -14,6 +14,6 @@ Coincidentally, both Yuna and I misinterpreted the instructions for our w01s1 ho
 
 I decided to highlight the differences of our videos by treating them with contrasting tones and switching between them in an abrupt manner. For my video, I spliced short segments together in different attention-grabbing rhythms, whereas I simply let Yuna's video play out for what hopefully feels like a little too long. I wanted to really emphasise the chaos of my shaky camera and the mundaneness of Yuna's cooking.
 
-Overall, I wanted to use the editing to poke fun at our stupidity for spending way more effort on the last homework task than we needed to, yet ending up with suboptimal material. I aimed to evoke humour and disorientation in the viewer. I think I was mostly successful at this, although I couldn't find a way to cut the video down to 30 seconds without sacrificing the pacing and comedic timing.
+Overall, I wanted to use the editing to poke fun at our stupidity for spending way more effort on the last homework task than we needed to, yet ending up with suboptimal material. I aimed to evoke humour and disorientation in the viewer. I think I was mostly successful at this, although I couldn't find a way to cut the video down to 30 seconds without sacrificing the pacing.
 
 <br><br>
