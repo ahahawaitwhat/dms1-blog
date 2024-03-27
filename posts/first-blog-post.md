@@ -1,7 +1,7 @@
 ---
-title: This is my first DMS1 blog post!
+title: Week 1, Session 1
 published_at: 2024-03-05
-snippet: This is an excerpt of my first blog post.
+snippet: My scavenger hunt recap and 30 second video of an important space.
 disable_html_sanitization: true
 ---
 

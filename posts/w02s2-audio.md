@@ -1,7 +1,7 @@
 ---
 title: Week 2, Session 2
 published_at: 2024-03-19
-snippet: Sound design
+snippet: My plans with the sound design.
 disable_html_sanitization: true
 ---
 

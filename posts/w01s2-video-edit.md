@@ -1,7 +1,7 @@
 ---
-title: Homework for Week 1 Session 2
+title: Week 1, Session 2
 published_at: 2024-03-07
-snippet: Editing experiment
+snippet: My 30 second editing experiment.
 disable_html_sanitization: true
 ---
 
