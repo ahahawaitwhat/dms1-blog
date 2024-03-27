@@ -1,6 +1,5 @@
 ---
 title: DMS Assignment 1 Blog Posts
-published_at: 2024-03-21
 snippet: Draft
 disable_html_sanitization: true
 ---
