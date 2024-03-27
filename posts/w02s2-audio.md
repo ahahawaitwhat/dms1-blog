@@ -18,7 +18,7 @@ After the black screen, both the visuals (extreme close up reaction shot zooming
 
 I like the idea of creating humour through reaction shots of a subject that can't change their facial expression. I aim to use the zooming close up to slightly poke fun at the bear's extreme reaction to the music.
 
-## Updated Storyboard
+## Updated storyboard
 
 ![revised storyboard with audio](/w02/radiohead-revised.jpg)
 

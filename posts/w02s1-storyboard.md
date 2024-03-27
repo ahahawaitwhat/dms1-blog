@@ -16,7 +16,7 @@ This storyboard depicts a scene early in the video where the bear interacts with
 
 I'm trying to create a flow of walking left in this scene, so all of the bear's movements are towards the left until the end when the door closes to the right, indicating that they are walking back to their desk. I also plan to cut out some of the highs from the music up until they start walking closer to the source of the music to emphasise its diegesis in every montage shot, rather than just this one. A broader concern with continuity would be controlling the bear during the filming process. It would be unrealistic to aim for a total absence of my hands in the frame, so I might just try to avoid drawing too much attention to them. However, I won't try to hide the fact that they're there, as I think the inclusion of my hands adds an nice subtext, emphasising the aura of immaturity as well as highlighting the bear as a tool to somewhat dissociate myself from the emotions in the video.
 
-## Others created later
+## Other storyboards
 
 ![jazz storyboard](/w02/jazz.jpg)
 
