@@ -1,5 +1,6 @@
 ---
-title: DMS Assignment 1 Blog Posts
+title: Week 2, Session 2
+published_at: 2024-03-19
 snippet: Sound design
 disable_html_sanitization: true
 ---

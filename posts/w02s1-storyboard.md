@@ -1,5 +1,6 @@
 ---
-title: DMS Assignment 1 Blog Posts
+title: Week 2, Session 1
+published_at: 2024-03-14
 snippet: Storyboard
 disable_html_sanitization: true
 ---
