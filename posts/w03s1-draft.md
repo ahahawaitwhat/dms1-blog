@@ -1,7 +1,7 @@
 ---
-title: Homework for Week 3 Session 1
+title: DMS Assignment 1 Blog Posts
 published_at: 2024-03-21
-snippet: Editing experiment
+snippet: Draft
 disable_html_sanitization: true
 ---
 
