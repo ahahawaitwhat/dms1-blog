@@ -5,7 +5,7 @@ snippet: Editing experiment
 disable_html_sanitization: true
 ---
 
-### Links
+## Links
 <a href="https://safe-pigeon-27.deno.dev/w02s1-storyboard">Week 2, Session 1</a> | Week 2, Session 2 | <a href="https://safe-pigeon-27.deno.dev/w03s1-draft">Week 3, Session 1</a>
 
 ## Sound design
